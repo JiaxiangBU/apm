@@ -2,6 +2,7 @@
 
 1. add 敏捷开发 培训笔记 II
 1. make public
+1. knit readme
 
 ### 2018-12-21 12:02:19
 
