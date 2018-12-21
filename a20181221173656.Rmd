@@ -8,3 +8,5 @@ output: github_document
 沟通管理
 
 运营功能想好
+
+转型过程中的，困难
