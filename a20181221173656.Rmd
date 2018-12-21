@@ -1,0 +1,10 @@
+---
+title: '敏捷开发 培训笔记 III'
+author: '李家翔'
+date: '`r Sys.Date()`'
+output: github_document
+---
+
+沟通管理
+
+运营功能想好
