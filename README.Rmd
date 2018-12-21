@@ -11,6 +11,10 @@ knitr::opts_chunk$set(
 )
 ```
 
+### 2018-12-21 11:35:29
+
+1. add 敏捷开发 培训笔记 I
+
 ### 2018-12-14 16:45:06
 
 1. add r proj and readme
