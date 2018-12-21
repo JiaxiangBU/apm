@@ -4,3 +4,17 @@ author: '李家翔'
 date: '`r Sys.Date()`'
 output: github_document
 ---
+
+1. 腾讯方法
+    1. [www.amazon.cn](https://www.amazon.cn/dp/B00QEVXIEY/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1545370255&sr=8-1)
+    1. 三个产品，有敏捷开发方法
+1. <input type="checkbox" id="checkbox1" class="styled">show case
+1. burn down figure
+    1. 适合需求不会频繁增减
+    
+1. www.tapd.cn/ 功能免费
+    1. 轻量协作
+    1. 敏捷研发
+
+“需要说明文字的交互不是好交互”(张小龙)。
+写开发文档也是，代码和解释的总量要少，减少用户的阅读量。
