@@ -21,3 +21,8 @@ output: github_document
 
 <input type="checkbox" id="checkbox1" class="styled">布鲁姆 智慧山模型
 没找到
+
+1. 可用性测试报告
+    1. 随机抽样用户做满意度报告
+    1. 眼动仪，PC端使用比较多
+
