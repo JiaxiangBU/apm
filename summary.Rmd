@@ -1,0 +1,8 @@
+---
+title: '敏捷开发 培训笔记 总结'
+author: '李家翔'
+date: '`r Sys.Date()`'
+output: github_document
+---
+
+![](figure/summary.png){width=100% height=100%}

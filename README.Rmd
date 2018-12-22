@@ -17,4 +17,5 @@ knitr::opts_chunk$set(
 1. [敏捷开发 培训笔记 II](note2.md)
 1. [敏捷开发 培训笔记 III](note3.md)
 1. [敏捷开发 培训笔记 IV](note4.md)
+1. [敏捷开发 培训笔记 总结](summary.md)
 1. [更新日志](NEWS.md)
