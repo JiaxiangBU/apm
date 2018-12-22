@@ -1,7 +1,7 @@
 敏捷开发 培训笔记 II
 ================
 李家翔
-2018-12-21
+2018-12-22
 
 1.  腾讯方法
     1.  [www.amazon.cn](https://www.amazon.cn/dp/B00QEVXIEY/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1545370255&sr=8-1)
