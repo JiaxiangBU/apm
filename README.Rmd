@@ -15,8 +15,8 @@ knitr::opts_chunk$set(
 
 ### 使用 R 进行项目管理
 
-1. 
-1. 
+1. [使用R进行项目管理的笔记](r4plan.md)
+1. [jiaxiangli](https://jiaxiangli.netlify.com/) 博客
 
 ### 敏捷开发 培训笔记
 
